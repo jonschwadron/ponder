@@ -727,3 +727,34 @@
 2015/06/28 22:41:29 [info] 4231#0: *136 client 67.243.21.177 closed keepalive connection
 2015/06/28 22:41:29 [info] 4231#0: *138 client 67.243.21.177 closed keepalive connection
 2015/06/28 22:41:29 [info] 4231#0: *137 client 67.243.21.177 closed keepalive connection
+2015/06/28 22:51:01 [info] 4231#0: *155 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:01 [info] 4231#0: *152 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:01 [info] 4231#0: *153 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:07 [info] 4231#0: *154 client 67.243.21.177 closed keepalive connection
+2015/06/28 22:51:10 [info] 4231#0: *161 client 23.20.154.145 closed keepalive connection
+2015/06/28 22:51:10 [info] 4231#0: *163 client 23.20.154.145 closed keepalive connection
+2015/06/28 22:51:21 [info] 4231#0: *156 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:21 [info] 4231#0: *158 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:21 [info] 4231#0: *157 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:51 [info] 4231#0: *165 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:51 [info] 4231#0: *164 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:51 [info] 4231#0: *166 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:51:51 [info] 4231#0: *167 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:52:21 [info] 4231#0: *169 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:52:21 [info] 4231#0: *170 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:52:22 [info] 4231#0: *171 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:52:22 [info] 4231#0: *172 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:52:22 [info] 4231#0: *175 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:53:02 [info] 4231#0: *176 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:53:02 [info] 4231#0: *177 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:53:02 [info] 4231#0: *178 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:53:02 [info] 4231#0: *179 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:53:32 [info] 4231#0: *180 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:53:32 [info] 4231#0: *181 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:53:32 [info] 4231#0: *182 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:55:50 [info] 4231#0: *193 client 67.243.21.177 closed keepalive connection
+2015/06/28 22:55:50 [info] 4231#0: *194 client 67.243.21.177 closed keepalive connection
+2015/06/28 22:55:50 [info] 4231#0: *195 client 67.243.21.177 closed keepalive connection
+2015/06/28 22:55:50 [info] 4231#0: *196 client 67.243.21.177 closed keepalive connection
+2015/06/28 22:56:02 [info] 4231#0: *201 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 22:56:02 [info] 4231#0: *202 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
