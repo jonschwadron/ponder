@@ -1,0 +1,120 @@
+2015/06/26 00:39:24 [info] 17771#0: *5 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 01:37:44 [info] 17771#0: *9 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 01:37:44 [info] 17771#0: *10 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 02:58:18 [info] 17771#0: *16 client closed connection while waiting for request, client: 108.45.136.39, server: 0.0.0.0:80
+2015/06/26 03:05:04 [info] 17771#0: *17 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 03:05:04 [info] 17771#0: *18 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 09:29:41 [info] 19809#0: *1 client 23.253.163.53 closed keepalive connection
+2015/06/26 10:10:42 [info] 19809#0: *2 client 58.213.123.107 closed keepalive connection (104: Connection reset by peer)
+2015/06/26 12:43:38 [info] 19809#0: *3 client 141.212.122.194 closed keepalive connection
+2015/06/26 12:52:21 [info] 19809#0: *5 client 54.80.138.215 closed keepalive connection
+2015/06/26 12:52:21 [info] 19809#0: *4 client 54.80.138.215 closed keepalive connection
+2015/06/26 13:09:13 [info] 19809#0: *6 client 23.253.163.53 closed keepalive connection
+2015/06/26 16:32:49 [info] 19809#0: *8 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 17:01:19 [info] 19809#0: *11 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 17:01:19 [info] 19809#0: *9 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 17:01:19 [info] 19809#0: *10 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 17:01:19 [info] 19809#0: *12 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 17:01:39 [info] 19809#0: *15 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 17:01:39 [info] 19809#0: *14 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 17:30:09 [info] 21054#0: *1 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 17:30:09 [info] 21054#0: *2 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 18:25:37 [info] 22066#0: *1 client 115.238.248.165 closed keepalive connection
+2015/06/26 18:45:20 [info] 22066#0: *2 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 20:45:19 [info] 23104#0: *1 client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/26 20:45:28 [info] 23104#0: *4 client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/26 20:45:28 [info] 23104#0: *5 client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/26 20:45:30 [info] 23104#0: *9 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 20:45:30 [info] 23104#0: *3 client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/26 20:45:38 [info] 23104#0: *14 client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/26 20:46:00 [info] 23104#0: *19 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 20:51:30 [info] 23191#0: *6 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 20:51:30 [info] 23191#0: *14 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 20:51:30 [info] 23191#0: *15 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 20:51:33 [info] 23191#0: *11 client 67.243.21.177 closed keepalive connection
+2015/06/26 20:51:33 [info] 23191#0: *9 client 67.243.21.177 closed keepalive connection
+2015/06/26 20:51:33 [info] 23191#0: *12 client 67.243.21.177 closed keepalive connection
+2015/06/26 20:51:33 [info] 23191#0: *13 client 67.243.21.177 closed keepalive connection
+2015/06/26 20:59:48 [info] 23189#0: *20 client 166.137.244.77 closed keepalive connection
+2015/06/26 20:59:48 [info] 23189#0: *18 client 166.137.244.77 closed keepalive connection
+2015/06/26 20:59:48 [info] 23189#0: *19 client 166.137.244.77 closed keepalive connection
+2015/06/26 20:59:49 [info] 23191#0: *16 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:02:50 [info] 23189#0: *25 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:02:50 [info] 23189#0: *24 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:02:50 [info] 23189#0: *23 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:02:50 [info] 23189#0: *21 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:03:29 [info] 23189#0: *26 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:03:31 [info] 23189#0: *32 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:03:31 [info] 23189#0: *30 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:03:32 [info] 23189#0: *28 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:03:32 [info] 23189#0: *31 client 166.137.244.77 closed keepalive connection
+2015/06/26 21:06:50 [info] 23189#0: *38 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/26 22:55:02 [info] 23189#0: *46 client 166.137.244.77 closed keepalive connection
+2015/06/26 22:55:02 [info] 23189#0: *44 client 166.137.244.77 closed keepalive connection
+2015/06/26 22:55:02 [info] 23189#0: *45 client 166.137.244.77 closed keepalive connection
+2015/06/26 22:55:03 [info] 23189#0: *42 client 166.137.244.77 closed keepalive connection
+2015/06/27 02:04:11 [info] 23189#0: *52 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 02:26:03 [info] 23189#0: *55 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 02:26:03 [info] 23189#0: *56 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 02:26:03 [info] 23189#0: *54 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 02:26:03 [info] 23189#0: *57 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 02:26:03 [info] 23189#0: *58 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 02:28:43 [info] 23189#0: *64 client 166.137.244.77 closed keepalive connection
+2015/06/27 02:28:43 [info] 23189#0: *63 client 166.137.244.77 closed keepalive connection
+2015/06/27 02:28:43 [info] 23189#0: *60 client 166.137.244.77 closed keepalive connection
+2015/06/27 02:28:43 [info] 23189#0: *62 client 166.137.244.77 closed keepalive connection
+2015/06/27 02:51:21 [info] 23189#0: *67 client 54.80.138.215 closed keepalive connection
+2015/06/27 02:51:21 [info] 23189#0: *65 client 54.80.138.215 closed keepalive connection
+2015/06/27 03:04:39 [info] 23189#0: *69 client 67.243.21.177 closed keepalive connection
+2015/06/27 04:06:41 [info] 23189#0: *79 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 04:12:57 [info] 23189#0: *81 client sent invalid request while reading client request line, client: 141.212.122.154, server: localhost, request: "CONNECT google.com:443 HTTP/1.1"
+2015/06/27 16:56:25 [info] 23189#0: *90 client 54.166.140.153 closed keepalive connection
+2015/06/27 16:56:25 [info] 23189#0: *92 client 54.166.140.153 closed keepalive connection
+2015/06/27 16:58:25 [info] 23189#0: *93 client timed out (110: Connection timed out) while waiting for request, client: 208.79.50.48, server: 0.0.0.0:80
+2015/06/27 17:01:10 [info] 23189#0: *94 client 150.70.97.127 closed keepalive connection
+2015/06/27 17:02:00 [info] 23189#0: *95 client timed out (110: Connection timed out) while waiting for request, client: 208.79.50.48, server: 0.0.0.0:80
+2015/06/27 19:00:29 [info] 23189#0: *96 client 115.238.248.165 closed keepalive connection
+2015/06/27 23:47:19 [info] 23189#0: *101 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 23:55:26 [error] 23189#0: *102 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/27 23:55:39 [info] 23189#0: *106 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 23:55:39 [info] 23189#0: *103 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 23:55:39 [info] 23189#0: *107 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 23:55:39 [info] 23189#0: *105 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 23:55:39 [info] 23189#0: *108 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 23:55:49 [error] 23189#0: *102 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/27 23:55:49 [error] 23189#0: *102 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/27 23:55:55 [error] 23189#0: *102 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/27 23:55:56 [error] 23189#0: *102 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/27 23:55:57 [error] 23189#0: *102 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/27 23:55:59 [info] 23189#0: *112 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 23:55:59 [info] 23189#0: *110 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/27 23:55:59 [info] 23189#0: *111 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 00:01:26 [error] 23189#0: *117 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/28 00:04:32 [error] 23189#0: *119 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/28 00:45:29 [error] 23189#0: *121 connect() failed (111: Connection refused) while connecting to upstream, client: 61.240.144.66, server: localhost, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:8001/"
+2015/06/28 00:45:31 [info] 23189#0: *121 recv() failed (104: Connection reset by peer) while sending to client, client: 61.240.144.66, server: localhost, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:8001/"
+2015/06/28 00:59:04 [error] 23189#0: *123 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/28 00:59:05 [error] 23189#0: *123 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/28 00:59:39 [info] 23189#0: *129 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 01:32:00 [error] 23189#0: *131 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/28 01:32:29 [info] 23189#0: *135 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 02:38:51 [error] 23189#0: *141 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/28 02:39:02 [info] 23189#0: *143 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 02:39:02 [info] 23189#0: *142 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 02:39:02 [info] 23189#0: *145 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 02:39:02 [info] 23189#0: *144 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 03:13:14 [error] 23189#0: *147 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/28 03:13:32 [info] 23189#0: *149 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 03:13:32 [info] 23189#0: *150 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 03:13:32 [info] 23189#0: *148 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 03:37:12 [info] 23189#0: *155 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 03:37:12 [info] 23189#0: *152 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 03:37:32 [info] 23189#0: *156 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 05:17:05 [info] 23189#0: *158 client 58.213.123.107 closed keepalive connection (104: Connection reset by peer)
+2015/06/28 10:53:17 [info] 23189#0: *162 client 54.162.117.63 closed keepalive connection
+2015/06/28 10:53:17 [info] 23189#0: *164 client 54.162.117.63 closed keepalive connection
+2015/06/28 13:49:53 [info] 23189#0: *165 client closed connection while waiting for request, client: 62.210.206.180, server: 0.0.0.0:80
+2015/06/28 13:51:24 [info] 23189#0: *166 client 62.210.206.180 closed keepalive connection
+2015/06/28 16:46:15 [info] 23189#0: *170 client 61.147.80.104 closed keepalive connection
+2015/06/28 17:26:49 [info] 23189#0: *171 client 58.213.123.107 closed keepalive connection (104: Connection reset by peer)
+2015/06/28 18:06:10 [info] 23189#0: *173 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
