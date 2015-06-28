@@ -133,3 +133,10 @@
 2015/06/28 18:33:33 [error] 23189#0: *191 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
 2015/06/28 18:41:06 [error] 23189#0: *193 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
 2015/06/28 18:50:50 [error] 23189#0: *195 connect() failed (111: Connection refused) while connecting to upstream, client: 67.243.21.177, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8001/", host: "ec2-52-25-236-188.us-west-2.compute.amazonaws.com"
+2015/06/28 19:29:40 [info] 23189#0: *240 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 19:31:38 [info] 23189#0: *243 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 19:33:20 [info] 23189#0: *247 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 19:39:28 [info] 23189#0: *249 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 19:49:00 [info] 23189#0: *254 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 19:58:51 [info] 23189#0: *257 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80
+2015/06/28 20:03:01 [info] 23189#0: *262 client closed connection while waiting for request, client: 67.243.21.177, server: 0.0.0.0:80

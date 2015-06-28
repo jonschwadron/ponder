@@ -3,18 +3,16 @@
 
   angular
     .module('ponder', [
+      'ponder.config',
+      'ponder.routes',
+      'ponder.authentication',
+      'ponder.layout'
       'ponder.routes',
       'ponder.authentication'
     ]);
 
   angular
     .module('ponder.routes', ['ngRoute']);
-
-  angular
-    .module('ponder', [
-     'ponder.config',
-     // ...
-   ]);
 
   angular
     .module('ponder.config', []);
