@@ -13,24 +13,24 @@ Including another URLconf
     1. Add an import:  from blog import urls as blog_urls
     2. Add a URL to urlpatterns:  url(r'^blog/', include(blog_urls))
 """
-
+from django.conf.urls import include, url
 
 # .. Imports
 from rest_framework_nested import routers
 from authentication.views import LoginView
 from authentication.views import AccountViewSet
+from ponder.views import IndexView
 
 router = routers.SimpleRouter()
 router.register(r'accounts', AccountViewSet)
 
-urlpatterns = patterns(
-     '',
+urlpatterns = [
     # ... URLs
     url(r'^api/v1/', include(router.urls)),
     url(r'^api/v1/auth/login/$', LoginView.as_view(), name='login'),
 
     url('^.*$', IndexView.as_view(), name='index'),
-)
+]
 
 
 

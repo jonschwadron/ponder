@@ -8,6 +8,12 @@ https://docs.djangoproject.com/en/1.8/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/1.8/ref/settings/
+
+
+removed:
+'django.middleware.security.SecurityMiddleware',
+
+
 """
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -50,7 +56,6 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'django.middleware.security.SecurityMiddleware',
 )
 
 ROOT_URLCONF = 'ponder.urls'
