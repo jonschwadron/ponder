@@ -2,34 +2,34 @@
   'use strict';
 
   angular
-    .module('ponder', [
-      'ponder.config',
-      'ponder.routes',
-      'ponder.authentication',
-      'ponder.layout',
-      'ponder.routes',
-      'ponder.authentication'
+    .module('thinkster', [
+      'thinkster.config',
+      'thinkster.routes',
+      'thinkster.accounts',
+      'thinkster.authentication',
+      'thinkster.layout',
+      'thinkster.posts',
+      'thinkster.utils'
     ]);
 
   angular
-    .module('ponder.routes', ['ngRoute']);
+    .module('thinkster.config', []);
 
   angular
-    .module('ponder.config', []);
+    .module('thinkster.routes', ['ngRoute']);
 
   angular
-   .module('ponder')
-   .run(run);
+    .module('thinkster')
+    .run(run);
 
   run.$inject = ['$http'];
 
   /**
-  * @name run
-  * @desc Update xsrf $http headers to align with Django's defaults
-  */
+   * @name run
+   * @desc Update xsrf $http headers to align with Django's defaults
+   */
   function run($http) {
     $http.defaults.xsrfHeaderName = 'X-CSRFToken';
     $http.defaults.xsrfCookieName = 'csrftoken';
-  } 
-
+  }
 })();
