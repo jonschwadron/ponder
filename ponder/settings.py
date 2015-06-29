@@ -1,7 +1,9 @@
 """
 Django settings for ponder project.
+
 For more information on this file, see
 https://docs.djangoproject.com/en/1.7/topics/settings/
+
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/1.7/ref/settings/
 """
@@ -15,10 +17,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 # See https://docs.djangoproject.com/en/1.7/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '=b)64&cm7#kq+yr9+_#=bfqzx#(=+4cg4qoup+i7uxli74tq5)'
+SECRET_KEY = '$mcx0k&9bb-0=$)y&c&v0bnh)_-!f4rua%2p0qy9+@@8^pc!y4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = os.environ.get('DEBUG', True)
+DEBUG = True
 
 TEMPLATE_DEBUG = True
 
@@ -58,12 +60,11 @@ WSGI_APPLICATION = 'ponder.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.7/ref/settings/#databases
 
-import dj_database_url
-
 DATABASES = {
-    'default': dj_database_url.config(
-        default='sqlite:///' + os.path.join(BASE_DIR, 'db.sqlite3')
-    )
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
 }
 
 # Internationalization

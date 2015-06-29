@@ -15,7 +15,8 @@ accounts_router = routers.NestedSimpleRouter(
 )
 accounts_router.register(r'posts', AccountPostsViewSet)
 
-urlpatterns = patterns('',
+urlpatterns = patterns(
+    '',
 
     url(r'^api/v1/', include(router.urls)),
     url(r'^api/v1/', include(accounts_router.urls)),
@@ -24,4 +25,3 @@ urlpatterns = patterns('',
 
     url(r'^.*$', IndexView.as_view(), name='index'),
 )
-
