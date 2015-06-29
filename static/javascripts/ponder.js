@@ -2,24 +2,24 @@
   'use strict';
 
   angular
-    .module('thinkster', [
-      'thinkster.config',
-      'thinkster.routes',
-      'thinkster.accounts',
-      'thinkster.authentication',
-      'thinkster.layout',
-      'thinkster.posts',
-      'thinkster.utils'
+    .module('ponder', [
+      'ponder.config',
+      'ponder.routes',
+      'ponder.accounts',
+      'ponder.authentication',
+      'ponder.layout',
+      'ponder.posts',
+      'ponder.utils'
     ]);
 
   angular
-    .module('thinkster.config', []);
+    .module('ponder.config', []);
 
   angular
-    .module('thinkster.routes', ['ngRoute']);
+    .module('ponder.routes', ['ngRoute']);
 
   angular
-    .module('thinkster')
+    .module('ponder')
     .run(run);
 
   run.$inject = ['$http'];

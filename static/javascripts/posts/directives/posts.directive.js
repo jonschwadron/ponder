@@ -1,12 +1,12 @@
 /**
  * Posts
- * @namespace ponder.g.posts.directives
+ * @namespace ponder.posts.directives
  */
 (function () {
   'use strict';
 
   angular
-    .module('ponder.g.posts.directives')
+    .module('ponder.posts.directives')
     .directive('posts', posts);
 
   /**
@@ -16,7 +16,7 @@
     /**
      * @name directive
      * @desc The directive to be returned
-     * @memberOf ponder.g.posts.directives.Posts
+     * @memberOf ponder.posts.directives.Posts
      */
     var directive = {
       controller: 'PostsController',
