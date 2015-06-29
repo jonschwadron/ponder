@@ -3,7 +3,7 @@
 * @namespace ponder.authentication.controllers
 */
 (function () {
-  'use strict';
+  'use static';
 
   angular
     .module('ponder.authentication.controllers')

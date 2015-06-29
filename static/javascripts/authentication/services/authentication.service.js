@@ -6,6 +6,7 @@
   'use strict';
   
   angular
+ // .module('ponder.authentication.services', ['ngCookies'])
   .module('ponder.authentication.services')
   .factory('Authentication', Authentication);
   
@@ -31,7 +32,7 @@
     };
     
     return Authentication;  
-  }
+ 
   
   ////////////////////
   
@@ -162,6 +163,6 @@
   function unauthenticate() {
     delete $cookies.authenticatedAccount;
   }
-  
+ } 
 })();
 
