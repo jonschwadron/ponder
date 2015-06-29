@@ -1,7 +1,7 @@
 /**
-* Register controller
-* @namespace ponder.authentication.controllers
-*/
+ * Register controller
+ * @namespace ponder.authentication.controllers
+ */
 (function () {
   'use strict';
 
@@ -12,21 +12,12 @@
   RegisterController.$inject = ['$location', '$scope', 'Authentication'];
 
   /**
-  * @namespace RegisterController
-  */
+   * @namespace RegisterController
+   */
   function RegisterController($location, $scope, Authentication) {
     var vm = this;
 
     vm.register = register;
-
-    /**
-    * @name register
-    * @desc Register a new user
-    * @memberOf ponder.authentication.controllers.RegisterController
-    */
-    function register() {
-      Authentication.register(vm.email, vm.password, vm.username);
-    }
 
     activate();
 
@@ -40,6 +31,15 @@
       if (Authentication.isAuthenticated()) {
         $location.url('/');
       }
+    }
+
+    /**
+     * @name register
+     * @desc Register a new user
+     * @memberOf ponder.authentication.controllers.RegisterController
+     */
+    function register() {
+      Authentication.register(vm.email, vm.password, vm.username);
     }
   }
 })();
