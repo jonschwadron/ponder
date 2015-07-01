@@ -41,19 +41,17 @@
      */
     function calculateNumberOfColumns() {
       var width = $(window).width();
-      return 1;
-    }	
-
-   //  if (width >= 1200) {
-   //    return 1;
-   // } else if (width >= 992) {
-   //  return 3;
-   // } else if (width >= 768) {
-   //   return 2;
-   // } else {
-   //  return 1;
-   // }
-   // }
+	
+      if (width >= 1200) {
+        return 1;
+      } else if (width >= 992) {
+        return 1;
+      } else if (width >= 768) {
+        return 1;
+      } else {
+        return 1;
+      }
+    }
 
 
     /**
