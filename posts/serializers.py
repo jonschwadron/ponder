@@ -6,6 +6,7 @@ from posts.models import Post
 
 class PostSerializer(serializers.ModelSerializer):
     author = AccountSerializer(read_only=True, required=False)
+    created_at = serializers.CharField(read_only=True, source='created_at_to_naturaltime')
 
     class Meta:
         model = Post
