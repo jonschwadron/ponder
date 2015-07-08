@@ -36,9 +36,19 @@
   text-decoration: none;
 }
 
-.post .post__button {
+.post .post__button-like {
   float: right;
   margin: 3px; 
+}
+
+.post .post__button-comment {
+  float: right;
+  margin: 3px;
+}
+
+.post .post__button-share {
+  float: right;
+  margin: 3px;
 }
 
 .account {}
